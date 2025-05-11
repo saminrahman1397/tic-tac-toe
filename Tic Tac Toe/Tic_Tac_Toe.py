@@ -2,7 +2,6 @@ import pygame
 import sys
 import os
 import random
-import time
 pygame.init()
 LOGICAL_WIDTH, LOGICAL_HEIGHT = (pygame.display.Info().current_w//2, pygame.display.Info().current_h//1.2)
 FPS = 60
